@@ -99,7 +99,7 @@ defmodule Task2PathTraversalTest do
   ["na", "na", 12],
   ["na", 10, "na"]
   ]
- 
+
   test "check locations of valid sum for the given matrix" do
     matrix_of_sum = [
       [21 ,"na", "na"],
